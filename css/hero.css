@@ -1,0 +1,16 @@
+body{
+	margin:0;
+}
+header{
+	background-color: #d15635;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+header h1{
+	color: white;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+	}
+header img{border-radius: 170px;
+width: 300px;
+border: 10px solid orange;}
